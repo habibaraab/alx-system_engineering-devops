@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo -R +X .                                                                                                                                                    
+chown -hR vincent:staff .                                                                                                                                                  
